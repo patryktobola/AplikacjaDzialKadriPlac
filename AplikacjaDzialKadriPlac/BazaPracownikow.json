@@ -1,0 +1,222 @@
+﻿[
+  {
+    "id": 1,
+    "imie": "Jan",
+    "nazwisko": "Kowalski",
+    "fizyczny": true,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 18,
+    "iloscDniNaZwolnieniu": 2,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 2,
+    "imie": "Zofia",
+    "nazwisko": "Nowak",
+    "fizyczny": true,
+    "stawka": 16,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 3,
+    "imie": "Adam",
+    "nazwisko": "Swiety",
+    "fizyczny": true,
+    "stawka": 17,
+    "iloscPrzepracowanychDni": 15,
+    "iloscDniNaZwolnieniu": 5,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 4,
+    "imie": "Kazimierz",
+    "nazwisko": "Kuc",
+    "fizyczny": true,
+    "stawka": 18,
+    "iloscPrzepracowanychDni": 19,
+    "iloscDniNaZwolnieniu": 1,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 5,
+    "imie": "Michal",
+    "nazwisko": "Aniol",
+    "fizyczny": true,
+    "stawka": 19,
+    "iloscPrzepracowanychDni": 18,
+    "iloscDniNaZwolnieniu": 2,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 6,
+    "imie": "Angelika",
+    "nazwisko": "Misztal",
+    "fizyczny": true,
+    "stawka": 20,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 7,
+    "imie": "Tomasz",
+    "nazwisko": "Adamek",
+    "fizyczny": true,
+    "stawka": 21,
+    "iloscPrzepracowanychDni": 18,
+    "iloscDniNaZwolnieniu": 2,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 8,
+    "imie": "Wiktoria",
+    "nazwisko": "Rąbień",
+    "fizyczny": true,
+    "stawka": 22,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 9,
+    "imie": "Adam",
+    "nazwisko": "Malysz",
+    "fizyczny": true,
+    "stawka": 23,
+    "iloscPrzepracowanychDni": 10,
+    "iloscDniNaZwolnieniu": 10,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 10,
+    "imie": "Agnieszka",
+    "nazwisko": "Radwanska",
+    "fizyczny": true,
+    "stawka": 24,
+    "iloscPrzepracowanychDni": 19,
+    "iloscDniNaZwolnieniu": 1,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 11,
+    "imie": "Robert",
+    "nazwisko": "Lewandowski",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 12,
+    "imie": "Wladyslaw",
+    "nazwisko": "Jagiello",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 13,
+    "imie": "Jessica",
+    "nazwisko": "Mercedes",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 19,
+    "iloscDniNaZwolnieniu": 1,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 14,
+    "imie": "Luis",
+    "nazwisko": "Nazario",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 15,
+    "imie": "Leonardo",
+    "nazwisko": "Davincii",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 16,
+    "imie": "Lara",
+    "nazwisko": "Croft",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 18,
+    "iloscDniNaZwolnieniu": 2,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 17,
+    "imie": "Bartek",
+    "nazwisko": "Jaszkiewicz",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 19,
+    "iloscDniNaZwolnieniu": 1,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 18,
+    "imie": "Geralt",
+    "nazwisko": "Zrivii",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 19,
+    "imie": "Fryderyk",
+    "nazwisko": "Nietzsche",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  },
+  {
+    "id": 20,
+    "imie": "Malgorzata",
+    "nazwisko": "Rozenek",
+    "fizyczny": false,
+    "stawka": 15,
+    "iloscPrzepracowanychDni": 20,
+    "iloscDniNaZwolnieniu": 0,
+    "podatekdochodowy": 400,
+    "zus": 600
+  }
+]
